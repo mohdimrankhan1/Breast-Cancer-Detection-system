@@ -42,7 +42,9 @@ Random Forest Classifier (RFC)
 
 Ada-Boost Classifier (Adb)
 
-Xg-Boost Classifier (Xg)
+Xg-Boost Classifier (XgB)
+
+Note: I have applied above all Machine learning model Then I have seen XGBoost Classifier is the best model for Predicting the Cancer.
 
 
 
