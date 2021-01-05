@@ -26,5 +26,27 @@ comparing of the both Benign and Malignant tumor, Benign tumor is more than Mali
 
 ![index2](https://user-images.githubusercontent.com/76062093/103675366-dcf25800-4fa5-11eb-8bed-54e62607c39e.png)
 
+#Used of Machine Learning Models-:
+
+Support Vector Machine (SVM)
+
+Logistic Regression Classifier (LR)
+
+K-Nearest Neighbors Classifier (KNN)
+
+Gaussian Naive_Bayes Classifier (gnb)
+
+Decision Tree Classifier (DT)
+
+Random Forest Classifier (RFC)
+
+Ada-Boost Classifier (Adb)
+
+Xg-Boost Classifier (Xg)
+
+
+
+
+
 
 
